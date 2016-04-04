@@ -1,0 +1,19 @@
+{
+    "name": "frankdejonge/middleware",
+    "description": "General purpose middleware implementation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank de Jonge",
+            "email": "info@frenky.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FrankDeJonge\\Middleware\\": "src/"
+        }
+    },
+    "require": {
+
+    }
+}
